@@ -29,3 +29,6 @@ Restaurants offering online delivery and table booking systematically achieve hi
 The price bucket analysis reveals that medium tier dining options account for the largest share of overall restaurant listings.
 India accounts for the highest volume of listings within the dataset followed by representation from other global markets.
 Top performing cuisines consistently attract the highest volume of user votes and positive review classifications.
+<img width="630" height="308" alt="ZomatoAnalystTableau" src="https://github.com/user-attachments/assets/7697c4e0-8700-48da-ad4f-174a537924c6" />
+<img width="630" height="308" alt="ZomatoAnalystTableau" src="https://github.com/user-attachments/assets/ec3fe0b0-afb4-43c4-8cc6-7051de074d4f" />
+
